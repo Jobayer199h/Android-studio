@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "/workspaces/Android-studio/.vscode",
+    "cmake.ignoreCMakeListsMissing": true
+}
